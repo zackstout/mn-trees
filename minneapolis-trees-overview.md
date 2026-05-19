@@ -261,6 +261,37 @@ Fast-growing, short-lived, weak-wooded. Quaking aspen is the most abundant tree 
 
 ---
 
+## Commonly Confused Trees
+
+### Compound-leaved trees: Ash vs. Walnut / Hickory (and Box Elder)
+
+These all have large compound leaves — multiple leaflets along a central stem — and it's easy to lump them together. The single fastest separator is **branching pattern**:
+
+- **Ash** — *opposite* branching (leaflets are also opposite each other on the stem). 5–9 leaflets, smooth-edged or finely toothed, elongated. Bark develops the distinctive interlocking diamond-ridge pattern on mature trees. Produces flat, paddle-shaped winged seeds.
+- **Walnut & Hickory** — *alternate* branching (and alternate leaflets). Walnuts have 15–23 leaflets tapering noticeably toward the tip; cut a twig and the pith is chambered (looks segmented inside). Hickories typically have 5–9 leaflets — similar count to ash — making them the most likely mix-up, but the alternate arrangement is decisive. Check for the shaggy peeling bark on shagbark hickory or sulfur-yellow buds on bitternut.
+- **Box Elder** — *opposite* like ash, but only 3–5 coarsely toothed leaflets, and produces the paired helicopter samaras that give away its maple identity. Already noted in the Maples section, but worth flagging here: box elder and ash are the most commonly confused pair on this list.
+
+**The quick rule:** If the leaves are opposite → ash or box elder (look for samaras vs. winged seeds to separate them). If alternate → walnut or hickory (count leaflets and check pith or bark).
+
+---
+
+### Simple toothed leaves: Elm, Birch, Ironwood, and Basswood
+
+All four have alternate, simple, oval-ish leaves with toothed edges. They're common in the same forest understory and edge habitats, which compounds the confusion.
+
+| Tree | Leaf base | Teeth | Bark | Clincher |
+|---|---|---|---|---|
+| **American Elm** | Strongly asymmetrical — one side clearly lower | Single-toothed, sharp | Gray, interlocking ridges (mature) | Lopsided base is unmistakable up close |
+| **Paper Birch** | Roughly symmetrical | Doubly toothed | White, peeling in papery layers | White peeling bark; no other MN tree matches it |
+| **Ironwood** _(Hop-hornbeam, Ostrya virginiana)_ | Slightly asymmetrical | Doubly toothed, similar to birch | Brown, shreddy in narrow strips; trunk feels "muscular" | Distinctive hop-like papery seed clusters hanging in clusters of inflated pods |
+| **Basswood** | Moderately asymmetrical | Single-toothed, coarser | Gray, long flat-topped ridges | Leaf is much larger (up to 6"); unique strap-like bract attached to the fruit cluster |
+
+**The quick rule:** Check bark first — white peeling = birch; brown shreddy strips = ironwood. For the remaining two, leaf size settles it fast: basswood leaves are dramatically larger. If the base is strongly lopsided and the leaf is mid-sized with a rough texture, it's elm.
+
+> **Note on Ironwood:** _Ostrya virginiana_ isn't covered in the main species tables above but is common in Minneapolis forest understories and ravines — it's one of the most frequently misidentified trees in the region. Look for the hop-like seed clusters (technically strobiles) in late summer and fall; nothing else looks like them.
+
+---
+
 ## Where to See Them
 
 | Location                                                      | What You'll Find                                                                      |
