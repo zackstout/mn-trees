@@ -75,6 +75,17 @@ The maple-basswood forest is the dominant native ecosystem in central/southeaste
 | Box Elder | *Acer negundo* | Sapindaceae | Sapindales | A maple with compound leaves — often mistaken for ash; one of the 3 most common urban trees in Minneapolis |
 | Norway Maple *(introduced)* | *Acer platanoides* | Sapindaceae | Sapindales | European; widely planted as a boulevard tree; milky white sap at broken leaf stem distinguishes it from sugar maple |
 
+### Buckeyes *(Aesculus)*
+
+**How to identify:** Buckeyes are unmistakable once you know the leaf: **opposite, palmately compound leaves with 5–7 leaflets radiating from a single point** like fingers from a palm — no other common MN tree does this. Upright clusters of yellow-green tubular flowers appear in spring. Fruits are large, leathery, sometimes spiny husks containing 1–3 smooth, mahogany-brown seeds with a pale circular scar — the "eye" of the buckeye. In winter, look for stout opposite twigs with large, sticky buds.
+
+**Ecosystem role:** Ohio buckeye is one of the first trees to leaf out in spring and one of the first to go dormant in late summer, often dropping leaves in August while everything else is still green. The seeds contain toxic compounds (aesculin and others) that make them poisonous to most mammals and humans — yet squirrels can eat them in small quantities and bury them widely. Hummingbirds and long-tongued native bees are the primary pollinators, drawn to the tubular flowers. The smooth, eye-like seed was traditionally carried as a good luck charm, and the buckeye is the state symbol of Ohio. Buckeyes aren't abundant in Minnesota but are found in the south and are commonly planted in Twin Cities parks and yards.
+
+| Common Name | Scientific Name | Family | Order | Notes |
+|---|---|---|---|---|
+| Ohio Buckeye | *Aesculus glabra* | Sapindaceae | Sapindales | Native to southern MN edge; opposite palmate compound leaves; spiny husked seeds |
+| Yellow Buckeye | *Aesculus flava* | Sapindaceae | Sapindales | Similar; larger; smooth husks; occasionally planted |
+
 ### Oaks *(Quercus)*
 
 Oaks split cleanly into two groups based on leaf shape.
@@ -94,6 +105,17 @@ Oaks split cleanly into two groups based on leaf shape.
 |---|---|---|---|---|
 | Northern Red Oak | *Quercus rubra* | Fagaceae | Fagales | Fast-growing; common in parks and natural areas |
 | Black Oak | *Quercus velutina* | Fagaceae | Fagales | Very dark, rough bark; inner bark yellow-orange |
+
+### Chestnuts *(Castanea)*
+
+**How to identify:** Chestnut leaves are **long, lance-shaped, with large, sharp, forward-curving teeth** — more prominent and regular than oak teeth, and the leaf itself is not lobed. In summer, trees produce striking long, cream-colored catkins. Fruits are enclosed in a **very spiny green burr** (much spikier than any oak acorn cap) that splits into 4 sections to reveal 2–3 smooth, flat-sided, edible nuts.
+
+**Ecosystem role:** American chestnut's story is one of the great ecological tragedies in North American history. Once called "the redwood of the east," it dominated Appalachian and eastern forests — so abundant that nut mast crunched underfoot for miles each fall, feeding bears, deer, turkeys, and countless other animals. A fungal blight (*Cryphonectria parasitica*), introduced on Asian nursery stock around 1904, spread at catastrophic speed and killed an estimated 3–4 billion trees within 50 years, functionally eliminating the species from the forest canopy. The root systems survive and still send up sprouts, but they rarely reach reproductive size before the blight kills them again. Restoration programs are developing blight-resistant hybrids. American chestnut's native range just barely touched the very southeastern corner of the country, not extending to Minnesota — but Chinese chestnut (*Castanea mollissima*), which is blight-resistant, is occasionally planted in the Twin Cities, and the American chestnut's story is important ecological context for understanding introduced disease.
+
+| Common Name | Scientific Name | Family | Order | Notes |
+|---|---|---|---|---|
+| American Chestnut | *Castanea dentata* | Fagaceae | Fagales | Native range does not reach MN; functionally extinct due to blight; ecologically important story |
+| Chinese Chestnut *(introduced)* | *Castanea mollissima* | Fagaceae | Fagales | Blight-resistant; occasionally planted in Twin Cities; edible nuts |
 
 ### Ashes *(Fraxinus)*
 
@@ -136,6 +158,17 @@ Distinctive jagged-edged leaves; most species have notable bark.
 | Yellow Birch | *Betula alleghaniensis* | Betulaceae | Fagales | Shiny yellowish peeling bark; wintergreen-scented twigs |
 | River Birch | *Betula nigra* | Betulaceae | Fagales | Peeling salmon/tan bark; floodplains; increasingly planted in Twin Cities |
 
+### Dogwoods *(Cornus)*
+
+**How to identify:** Most dogwoods have **opposite, simple, smooth-edged leaves with a distinctive vein pattern** — the veins curve parallel to the leaf margin toward the tip rather than branching outward. A useful trick: gently tear a leaf apart slowly and fine white silky threads (latex strands) will stretch between the pieces. Alternate-leaf dogwood breaks the naming convention by having alternate leaves — it's the only tree-sized dogwood in Minnesota. Look for its tiered, layered branching and blue-black berries on red stems in late summer.
+
+**Ecosystem role:** Dogwoods are exceptional wildlife plants. Their berries are unusually high in fat (most fruits are high in sugar) — a critical distinction for migrating birds that need to rapidly build fat reserves in fall. Over 35 bird species eat dogwood berries. Shrubby dogwoods like red-osier dogwood stabilize streambanks with their fibrous root systems, reduce erosion, and provide dense nesting cover. The dense thickets created by suckering dogwood shrubs are important small mammal habitat. Indigenous peoples used the hard wood for tool handles, the bark medicinally, and the straight stems for arrow shafts.
+
+| Common Name | Scientific Name | Family | Order | Notes |
+|---|---|---|---|---|
+| Alternate-leaf Dogwood | *Cornus alternifolia* | Cornaceae | Cornales | Only tree-sized native dogwood in MN; alternate leaves (unusual for genus); tiered branching; blue-black berries |
+| Pagoda Dogwood | *Cornus alternifolia* | Cornaceae | Cornales | Same species as above; "pagoda" refers to its distinctive layered horizontal branching |
+
 ### Basswood / Linden *(Tilia)*
 
 **How to identify:** Basswood has **large, heart-shaped leaves (up to 6") with a lopsided base and fine teeth**, similar to elm but much larger and without the extreme asymmetry. The most distinctive feature is the **strap-like bract attached to the flower/fruit cluster** — a long, pale green tongue hanging from the branch in summer that persists with the small round fruits into fall. Bark is gray with long flat-topped ridges.
@@ -162,6 +195,17 @@ Fast-growing, short-lived, weak-wooded. Quaking aspen is the most abundant tree 
 | Eastern Cottonwood | *Populus deltoides* | Salicaceae | Malpighiales | Minnesota's tallest native tree; large triangular leaves; deeply furrowed bark at maturity |
 | Balsam Poplar | *Populus balsamifera* | Salicaceae | Malpighiales | Sticky, fragrant buds; northern MN |
 
+### Wild Cherry *(Prunus)*
+
+**How to identify:** Cherries have **alternate, simple, finely toothed leaves** that taper to a pointed tip. The most reliable field mark is the **bark: horizontal lines (lenticels)** on young bark that look like dashes or slits — this is characteristic across the genus. On black cherry, mature bark breaks into dark, irregular, scaly plates that are sometimes compared to burnt potato chips. Small white flowers bloom in elongated hanging clusters (racemes) in spring — distinct from the rounded clusters of crabapple. Crush a leaf or twig: it smells distinctly of almonds. Small round cherries ripen from red to nearly black in late summer.
+
+**Ecosystem role:** Black cherry is ecologically dominant in secondary forests — it rapidly colonizes abandoned fields and forest gaps. It's one of the most important wildlife trees in eastern North America: over 200 species of moths and butterflies use it as a larval host plant, making it second only to oaks in supporting caterpillar diversity, and its fruits are eaten by nearly every fruit-eating bird in the region. The almond smell in the leaves comes from cyanogenic glycosides — compounds that can convert to hydrogen cyanide, which can poison livestock that eat wilted leaves (wilting releases the compound; fresh leaves are less dangerous). The wood is among the most prized in North America for fine furniture, and black cherry was a traditional food source for Indigenous peoples who dried the fruits and pounded them into pemmican.
+
+| Common Name | Scientific Name | Family | Order | Notes |
+|---|---|---|---|---|
+| Black Cherry | *Prunus serotina* | Rosaceae | Rosales | Native MN tree; horizontal bark lenticels; almond-scented leaves; dark fruits in late summer |
+| Pin Cherry | *Prunus pensylvanica* | Rosaceae | Rosales | Smaller; bright red fruits; pioneer species after disturbance; common in northern MN |
+
 ### Walnuts & Hickories
 
 Compound leaves; valuable hardwoods; produce edible nuts.
@@ -176,6 +220,21 @@ Compound leaves; valuable hardwoods; produce edible nuts.
 | Butternut | *Juglans cinerea* | Juglandaceae | Fagales | Elongated (not round) husks; sticky; similar to walnut |
 | Shagbark Hickory | *Carya ovata* | Juglandaceae | Fagales | Distinctive shaggy, peeling plates of bark |
 | Bitternut Hickory | *Carya cordiformis* | Juglandaceae | Fagales | Sulfur-yellow buds in winter; smoother bark than shagbark |
+
+### Elderberry & Nannyberry *(Adoxaceae)*
+
+> **Taxonomic note:** The user requested Caprifoliaceae. Modern taxonomy (APG IV) split that family — elderberries (*Sambucus*) and viburnums (*Viburnum*) were moved to **Adoxaceae**, while the remaining Caprifoliaceae in Minnesota are mostly shrubby honeysuckles (*Lonicera*), including several invasive species. The trees and large shrubs of interest are all now Adoxaceae.
+
+**How to identify:** Elderberries have **opposite, pinnately compound leaves** (multiple toothed leaflets along a stem) — they superficially resemble ash, but elderberry is much smaller, usually shrubby, and has a pithy stem that you can push a pencil through. Large flat-topped clusters of tiny cream-white flowers are distinctive. Nannyberry and other viburnums have **opposite simple leaves** (not compound) with clusters of small white flowers, sometimes with showy sterile outer flowers. Both produce small fleshy berries — dark purple-black in elderberry and nannyberry, red in highbush cranberry viburnum.
+
+**Ecosystem role:** Elderberry is one of the most productive wildlife shrubs in Minnesota. Its flowers attract dozens of native bee species, and its berries are consumed by over 50 bird species. Elderberries are edible for humans when cooked (raw berries cause nausea in many people) and have been used medicinally across many cultures. The hollow stems have long been used to make flutes, and the Ojibwe used elderberry widely in ceremony and medicine. Nannyberry and highbush cranberry berries are sweet and persist into winter — critical food when other sources are gone. Viburnums are among the most important shrubs for pollinators and birds in the Upper Midwest, and their dense growth provides excellent nesting and escape cover.
+
+| Common Name | Scientific Name | Family | Order | Notes |
+|---|---|---|---|---|
+| Common Elderberry | *Sambucus canadensis* | Adoxaceae | Dipsacales | Large shrub/small tree; flat-topped white flower clusters; purple-black berries; edible when cooked |
+| Red Elderberry | *Sambucus racemosa* | Adoxaceae | Dipsacales | Similar; rounded flower clusters; red berries; more northern range |
+| Nannyberry | *Viburnum lentago* | Adoxaceae | Dipsacales | Can reach small tree size; opposite simple leaves; sweet blue-black berries persist into winter |
+| Highbush Cranberry | *Viburnum trilobum* | Adoxaceae | Dipsacales | Lobed maple-like leaves; showy outer sterile flowers; tart red berries; important winter wildlife food |
 
 ### Commonly Planted Non-Native Trees
 
@@ -201,5 +260,5 @@ Compound leaves; valuable hardwoods; produce edible nuts.
 | **Minneapolis streets & boulevards** | Green ash, American elm, box elder, Norway maple, honeylocust, crabapple, linden |
 | **Chain of Lakes** (Harriet, Bde Maka Ska, Lake of the Isles) | Mature maples, ashes, oaks, basswood |
 | **Mississippi River Corridor** | Cottonwood, river birch, silver maple, oak, ash; floodplain species |
-| **Eloise Butler Wildflower Garden** | Native woodland species including bur oak, sugar maple, basswood |
+| **Eloise Butler Wildflower Garden** | Native woodland species including bur oak, sugar maple, basswood, dogwood, elderberry |
 | **Northern/Central MN forests** | Quaking aspen, paper birch, white pine, spruce, tamarack |
