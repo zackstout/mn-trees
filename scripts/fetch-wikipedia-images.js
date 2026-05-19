@@ -8,11 +8,15 @@
 //
 // Output: JSON mapping scientific name -> { url, page }
 
-const waterbirds = require("./waterbird-species.js");
+function arg(flag, fallback) {
+  const i = process.argv.indexOf(flag);
+  return i !== -1 ? process.argv[i + 1] : fallback;
+}
 
-const OUTPUT_FILE = process.argv.includes("--output")
-  ? process.argv[process.argv.indexOf("--output") + 1]
-  : "waterbird-images.json";
+const SPECIES_FILE = arg("--species", "./waterbird-species.js");
+const OUTPUT_FILE = arg("--output", "waterbird-images.json");
+
+const waterbirds = require(require("path").resolve(SPECIES_FILE));
 
 // Flatten all species into a single list
 function allSpecies(data) {
@@ -76,29 +80,31 @@ function extractInforboxImage(html) {
   return "https:" + imgMatch[1];
 }
 
-// Fetch the Wikipedia page for a given title and extract the infobox image
+// Fetch the Wikipedia page for a given title and extract the infobox image.
+// Returns null for imageUrl if the page 404s or has no infobox image.
 async function fetchPageImage(title) {
   const pageUrl = `https://en.wikipedia.org/wiki/${title}`;
   const res = await fetch(pageUrl, {
     headers: { "User-Agent": "mn-trees-image-fetcher/1.0 (educational project)" },
   });
+  if (res.status === 404) return { imageUrl: null, pageUrl, notFound: true };
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
   const html = await res.text();
   return { imageUrl: extractInforboxImage(html), pageUrl };
 }
 
-// Try common name first, fall back to scientific name if no image found
+// Try common name first, fall back to scientific name on 404 or missing image
 async function fetchWikipediaImage(commonName, scientificName) {
   const commonTitle = toWikiTitle(commonName);
-  const { imageUrl, pageUrl } = await fetchPageImage(commonTitle);
-  if (imageUrl) return { imageUrl, pageUrl };
+  const first = await fetchPageImage(commonTitle);
+  if (first.imageUrl) return { imageUrl: first.imageUrl, pageUrl: first.pageUrl };
 
   // Fallback: try scientific name
   const sciTitle = scientificName.replace(/ /g, "_");
   const fallback = await fetchPageImage(sciTitle);
   if (fallback.imageUrl) return { imageUrl: fallback.imageUrl, pageUrl: fallback.pageUrl };
 
-  return { imageUrl: null, pageUrl, note: "No infobox image found" };
+  return { imageUrl: null, pageUrl: first.pageUrl, note: "No infobox image found" };
 }
 
 async function main() {

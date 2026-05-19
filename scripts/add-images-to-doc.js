@@ -9,10 +9,15 @@
 const fs = require("fs");
 const path = require("path");
 
+function arg(flag, fallback) {
+  const i = process.argv.indexOf(flag);
+  return i !== -1 ? process.argv[i + 1] : fallback;
+}
+
 const ROOT = path.resolve(__dirname, "..");
-const SOURCE = path.join(ROOT, "minneapolis-waterbirds-overview.md");
-const OUTPUT = path.join(ROOT, "minneapolis-waterbirds-overview-with-images.md");
-const IMAGES = path.join(ROOT, "waterbird-images.json");
+const SOURCE = arg("--source", path.join(ROOT, "minneapolis-waterbirds-overview.md"));
+const OUTPUT = arg("--output", SOURCE.replace(".md", "-with-images.md"));
+const IMAGES = arg("--images", path.join(ROOT, "waterbird-images.json"));
 
 const images = JSON.parse(fs.readFileSync(IMAGES, "utf8"));
 

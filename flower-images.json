@@ -1,0 +1,212 @@
+{
+  "Sanguinaria canadensis": {
+    "common": "Bloodroot",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Sanguinaria_canadensis_Arkansas.jpg/250px-Sanguinaria_canadensis_Arkansas.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Bloodroot"
+  },
+  "Trillium grandiflorum": {
+    "common": "Large-flowered Trillium",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Trillium_grandiflorum_at_Backus_Woods.jpg/250px-Trillium_grandiflorum_at_Backus_Woods.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Trillium_grandiflorum"
+  },
+  "Asarum canadense": {
+    "common": "Wild Ginger",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Asarum_canadense_-_Wild_Ginger.jpg/250px-Asarum_canadense_-_Wild_Ginger.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Asarum_canadense"
+  },
+  "Dicentra cucullaria": {
+    "common": "Dutchman's Breeches",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Dicentra_cucullaria_-_Dutchmans_Breeches_2.jpg/250px-Dicentra_cucullaria_-_Dutchmans_Breeches_2.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Dutchman's_breeches"
+  },
+  "Claytonia virginica": {
+    "common": "Spring Beauty",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Claytonia_virginica_2_Radnor_Lake.jpg/250px-Claytonia_virginica_2_Radnor_Lake.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Spring_beauty"
+  },
+  "Hepatica nobilis": {
+    "common": "Hepatica",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Hepatica_nobilis_plant.JPG/250px-Hepatica_nobilis_plant.JPG",
+    "pageUrl": "https://en.wikipedia.org/wiki/Hepatica"
+  },
+  "Arisaema triphyllum": {
+    "common": "Jack-in-the-Pulpit",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Arisaema_triphyllum_Bob_Hunter_Memorial_Park.jpg/250px-Arisaema_triphyllum_Bob_Hunter_Memorial_Park.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Arisaema_triphyllum"
+  },
+  "Echinacea purpurea": {
+    "common": "Purple Coneflower",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Echinacea_purpurea_Grandview_Prairie.jpg/250px-Echinacea_purpurea_Grandview_Prairie.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Purple_coneflower"
+  },
+  "Rudbeckia hirta": {
+    "common": "Black-eyed Susan",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rudbeckia_hirta_kz03.jpg/250px-Rudbeckia_hirta_kz03.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Rudbeckia_hirta"
+  },
+  "Asclepias syriaca": {
+    "common": "Common Milkweed",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Asclepias_syriacus.tif/lossy-page1-250px-Asclepias_syriacus.tif.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Common_milkweed"
+  },
+  "Asclepias tuberosa": {
+    "common": "Butterfly Weed",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Asclepias_tuberosa_interior.jpg/250px-Asclepias_tuberosa_interior.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Butterfly_weed"
+  },
+  "Monarda fistulosa": {
+    "common": "Wild Bergamot",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Monarda_fistulosa_Arkansas.jpg/250px-Monarda_fistulosa_Arkansas.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Wild_bergamot"
+  },
+  "Liatris pycnostachya": {
+    "common": "Prairie Blazing Star",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Liatris_pycnostachya_var._pycnostachya.jpg/250px-Liatris_pycnostachya_var._pycnostachya.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Prairie_blazing_star"
+  },
+  "Lupinus perennis": {
+    "common": "Wild Lupine",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Lupinus_polyphyllus_526960203.jpg/250px-Lupinus_polyphyllus_526960203.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Wild_lupine"
+  },
+  "Baptisia australis": {
+    "common": "Wild Blue Indigo",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Baptisia_australis.jpg/250px-Baptisia_australis.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Baptisia_australis"
+  },
+  "Silphium laciniatum": {
+    "common": "Compass Plant",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Silphium_laciniatum_Arkansas.jpg/250px-Silphium_laciniatum_Arkansas.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Compass_plant"
+  },
+  "Coreopsis palmata": {
+    "common": "Prairie Coreopsis",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Coreopsis_palmata_NPS.jpg/250px-Coreopsis_palmata_NPS.jpg?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail",
+    "pageUrl": "https://en.wikipedia.org/wiki/Prairie_coreopsis"
+  },
+  "Iris versicolor": {
+    "common": "Blue Flag Iris",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Blue_Flag%2C_Ottawa.jpg/250px-Blue_Flag%2C_Ottawa.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Blue_flag_iris"
+  },
+  "Asclepias incarnata": {
+    "common": "Swamp Milkweed",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Swamp_milkweed_monarch.jpg/250px-Swamp_milkweed_monarch.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Swamp_milkweed"
+  },
+  "Lobelia cardinalis": {
+    "common": "Cardinal Flower",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Lobelia_cardinalis_-_Cardinal_Flower.jpg/250px-Lobelia_cardinalis_-_Cardinal_Flower.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Cardinal_flower"
+  },
+  "Lobelia siphilitica": {
+    "common": "Great Blue Lobelia",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Lobelia_siphilitica.jpg/250px-Lobelia_siphilitica.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Great_blue_lobelia"
+  },
+  "Nuphar lutea": {
+    "common": "Yellow Pond Lily",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Nuphar_advena_263442397.jpg/250px-Nuphar_advena_263442397.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Yellow_pond_lily"
+  },
+  "Nymphaea odorata": {
+    "common": "White Water Lily",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/2024-08-20_14_33_27_Fully_open_American_White_Water_Lily_flower_and_leaves_in_a_shallow_cove_of_Success_Lake_within_the_Colliers_Mills_Wildlife_Management_Area_in_Jackson_Township%2C_Ocean_County%2C_New_Jersey.jpg/250px-thumbnail.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Nymphaea_odorata"
+  },
+  "Pontederia cordata": {
+    "common": "Pickerelweed",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Pontederia_cordata.JPG/250px-Pontederia_cordata.JPG",
+    "pageUrl": "https://en.wikipedia.org/wiki/Pickerelweed"
+  },
+  "Sagittaria latifolia": {
+    "common": "Arrowhead",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Sagittaria_latifolia_%28flowers%29.jpg/250px-Sagittaria_latifolia_%28flowers%29.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Sagittaria_latifolia"
+  },
+  "Caltha palustris": {
+    "common": "Marsh Marigold",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Caltha_palustris_plant.JPG/250px-Caltha_palustris_plant.JPG",
+    "pageUrl": "https://en.wikipedia.org/wiki/Marsh_marigold"
+  },
+  "Aquilegia canadensis": {
+    "common": "Wild Columbine",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Wald-Akelei.JPG/250px-Wald-Akelei.JPG",
+    "pageUrl": "https://en.wikipedia.org/wiki/Wild_columbine"
+  },
+  "Polygonatum biflorum": {
+    "common": "Solomon's Seal",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Polygonatum_biflorum_Arkansas.jpg/250px-Polygonatum_biflorum_Arkansas.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Polygonatum_biflorum"
+  },
+  "Maianthemum racemosum": {
+    "common": "False Solomon's Seal",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Maianthemum_racemosum_4930.JPG/250px-Maianthemum_racemosum_4930.JPG",
+    "pageUrl": "https://en.wikipedia.org/wiki/False_solomon's_seal"
+  },
+  "Geranium maculatum": {
+    "common": "Wild Geranium",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Geranium_maculatum_Leatherwood_Lake.jpg/250px-Geranium_maculatum_Leatherwood_Lake.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Wild_geranium"
+  },
+  "Aralia nudicaulis": {
+    "common": "Wild Sarsaparilla",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Aralia_nudicaulis_002.jpg/250px-Aralia_nudicaulis_002.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Wild_sarsaparilla"
+  },
+  "Actaea pachypoda": {
+    "common": "White Baneberry",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Actaea_pachypoda_%281%29.jpg/250px-Actaea_pachypoda_%281%29.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/White_baneberry"
+  },
+  "Actaea rubra": {
+    "common": "Red Baneberry",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Actaea_rubra_kz03.jpg/250px-Actaea_rubra_kz03.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Red_baneberry"
+  },
+  "Podophyllum peltatum": {
+    "common": "Mayapple",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Podophyllum_peltatum_Arkansas.jpg/250px-Podophyllum_peltatum_Arkansas.jpg?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail",
+    "pageUrl": "https://en.wikipedia.org/wiki/Mayapple"
+  },
+  "Allium cernuum": {
+    "common": "Nodding Wild Onion",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Allium_cernuum_1.jpg/250px-Allium_cernuum_1.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Allium_cernuum"
+  },
+  "Solidago canadensis": {
+    "common": "Canada Goldenrod",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Solidago_canadensis_20050815_248.jpg/250px-Solidago_canadensis_20050815_248.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Canada_goldenrod"
+  },
+  "Solidago altissima": {
+    "common": "Tall Goldenrod",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Solidago_altissima_161401409.jpg/250px-Solidago_altissima_161401409.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Solidago_altissima"
+  },
+  "Symphyotrichum novae-angliae": {
+    "common": "New England Aster",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Symphyotrichum_novae-angliae3.jpg/250px-Symphyotrichum_novae-angliae3.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Symphyotrichum_novae-angliae"
+  },
+  "Vernonia fasciculata": {
+    "common": "Ironweed",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Vernonia_fasciculata.jpg/250px-Vernonia_fasciculata.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Vernonia_fasciculata"
+  },
+  "Eutrochium maculatum": {
+    "common": "Spotted Joe Pye Weed",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Flower_Buds.JPG/250px-Flower_Buds.JPG",
+    "pageUrl": "https://en.wikipedia.org/wiki/Spotted_joe_pye_weed"
+  },
+  "Daucus carota": {
+    "common": "Queen Anne's Lace",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Daucus_carota_May_2008-1_edit.jpg/250px-Daucus_carota_May_2008-1_edit.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Daucus_carota"
+  },
+  "Cichorium intybus": {
+    "common": "Common Chicory",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Wegwarte_Cichorium_intybus.jpg/250px-Wegwarte_Cichorium_intybus.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Common_chicory"
+  }
+}
