@@ -14,11 +14,11 @@ Most native conifers are more common in northern Minnesota but appear in parks a
 
 **Ecosystem role:** Pines are keystone species in fire-adapted landscapes. Jack pine takes this furthest — its cones are serotinous, meaning they're sealed with resin and only open to release seeds when heated by wildfire. Red and white pine forests are among the most wildlife-rich in the state, providing nesting habitat for bald eagles and ospreys and food for crossbills, which have bills specially shaped to pry open pine cones.
 
-| Common Name        | Scientific Name   | Family   | Order   | Bloom Time        | Notes                                                            | Foliage | Bark |
-| ------------------ | ----------------- | -------- | ------- | ----------------- | ---------------------------------------------------------------- | ------- | ---- |
-| Eastern White Pine | _Pinus strobus_   | Pinaceae | Pinales | Apr–May (cones)   | Soft needles in bundles of 5; Minnesota's tallest native conifer | ![foliage](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Pinus_strobus_needles3.jpg/320px-Pinus_strobus_needles3.jpg) | ![bark](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Eastern_White_Pine_Pinus_strobus_Bark_Vertical.JPG/320px-Eastern_White_Pine_Pinus_strobus_Bark_Vertical.JPG) |
-| Red Pine           | _Pinus resinosa_  | Pinaceae | Pinales | May–Jun (cones)   | State tree; orange-red upper bark; needles in bundles of 2       | ![foliage](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Pinus_resinosa_foliagecone.jpg/320px-Pinus_resinosa_foliagecone.jpg) | ![bark](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Red_pine_in_the_autumn.jpg/320px-Red_pine_in_the_autumn.jpg) |
-| Jack Pine          | _Pinus banksiana_ | Pinaceae | Pinales | May–Jun (cones)   | Scrappy, small; poor sandy soils; short needles in bundles of 2  | ![foliage](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Jackpine.jpg/320px-Jackpine.jpg) | ![bark](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Pinus_banksiana_bark.jpg/320px-Pinus_banksiana_bark.jpg) |
+| Common Name        | Scientific Name   | Family   | Order   | Bloom Time        | Notes                                                            | Wikipedia |
+| ------------------ | ----------------- | -------- | ------- | ----------------- | ---------------------------------------------------------------- | --------- |
+| Eastern White Pine | _Pinus strobus_   | Pinaceae | Pinales | Apr–May (cones)   | Soft needles in bundles of 5; Minnesota's tallest native conifer | [Wikipedia](https://en.wikipedia.org/wiki/Pinus_strobus) |
+| Red Pine           | _Pinus resinosa_  | Pinaceae | Pinales | May–Jun (cones)   | State tree; orange-red upper bark; needles in bundles of 2       | [Wikipedia](https://en.wikipedia.org/wiki/Pinus_resinosa) |
+| Jack Pine          | _Pinus banksiana_ | Pinaceae | Pinales | May–Jun (cones)   | Scrappy, small; poor sandy soils; short needles in bundles of 2  | [Wikipedia](https://en.wikipedia.org/wiki/Pinus_banksiana) |
 
 ### Spruce & Fir
 
@@ -26,11 +26,11 @@ Most native conifers are more common in northern Minnesota but appear in parks a
 
 **Ecosystem role:** Spruce and fir form the dense boreal forest (called the "north woods" in Minnesota) that dominates the Boundary Waters region. Their dense canopies hold snow and keep forest floors cool and moist — critical habitat for species like the Canada lynx and spruce grouse. Black spruce bogs are slow-growing, ancient ecosystems; a knee-high black spruce in a bog may be over 100 years old. Balsam fir is the primary host for spruce budworm, a native moth that causes massive periodic die-offs — which in turn create snag habitat for cavity-nesting woodpeckers and owls.
 
-| Common Name  | Scientific Name  | Family   | Order   | Bloom Time        | Notes                                               | Foliage | Bark |
-| ------------ | ---------------- | -------- | ------- | ----------------- | --------------------------------------------------- | ------- | ---- |
-| White Spruce | _Picea glauca_   | Pinaceae | Pinales | Apr–May (cones)   | Square needles; common in northern/central MN       | ![foliage](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Picea_glauca_twig_Denali_NP_AK.jpg/320px-Picea_glauca_twig_Denali_NP_AK.jpg) | ![bark](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/White_Spruce_bark_detail%2C_Chalco_Hills.jpg/320px-White_Spruce_bark_detail%2C_Chalco_Hills.jpg) |
-| Black Spruce | _Picea mariana_  | Pinaceae | Pinales | May–Jun (cones)   | Similar; prefers wet areas                          | ![foliage](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Picea_mariana_cones.jpg/320px-Picea_mariana_cones.jpg) | ![bark](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/2025-06-12_11_03_06_Black_Spruce_bark_within_the_Fritz_Run_Bog_in_Coolbaugh_Township%2C_Monroe_County%2C_Pennsylvania.jpg/320px-2025-06-12_11_03_06_Black_Spruce_bark_within_the_Fritz_Run_Bog_in_Coolbaugh_Township%2C_Monroe_County%2C_Pennsylvania.jpg) |
-| Balsam Fir   | _Abies balsamea_ | Pinaceae | Pinales | May–Jun (cones)   | Flat, fragrant needles; Minnesota's only native fir | ![foliage](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Abies_balsamea_2_%285097476331%29.jpg/320px-Abies_balsamea_2_%285097476331%29.jpg) | ![bark](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Abies_balsamea_bark.jpg/320px-Abies_balsamea_bark.jpg) |
+| Common Name  | Scientific Name  | Family   | Order   | Bloom Time        | Notes                                               | Wikipedia |
+| ------------ | ---------------- | -------- | ------- | ----------------- | --------------------------------------------------- | --------- |
+| White Spruce | _Picea glauca_   | Pinaceae | Pinales | Apr–May (cones)   | Square needles; common in northern/central MN       | [Wikipedia](https://en.wikipedia.org/wiki/Picea_glauca) |
+| Black Spruce | _Picea mariana_  | Pinaceae | Pinales | May–Jun (cones)   | Similar; prefers wet areas                          | [Wikipedia](https://en.wikipedia.org/wiki/Picea_mariana) |
+| Balsam Fir   | _Abies balsamea_ | Pinaceae | Pinales | May–Jun (cones)   | Flat, fragrant needles; Minnesota's only native fir | [Wikipedia](https://en.wikipedia.org/wiki/Abies_balsamea) |
 
 ### Cedar & Hemlock
 
@@ -38,11 +38,11 @@ Most native conifers are more common in northern Minnesota but appear in parks a
 
 **Ecosystem role:** Northern white cedar swamps are critically important winter refuges — deer yard up in dense cedar stands because the canopy intercepts snow and the trees themselves provide browse. Cedar's rot-resistant wood made it a go-to for canoe ribs and fence posts by both Indigenous peoples and European settlers. Eastern red cedar berries (technically fleshy cones) are a major food source for cedar waxwings, which are named for the tree. Eastern hemlock is unusual in casting such dense shade that almost nothing grows beneath it, creating a distinctive forest microclimate.
 
-| Common Name          | Scientific Name        | Family       | Order   | Bloom Time        | Notes                                               | Foliage | Bark |
-| -------------------- | ---------------------- | ------------ | ------- | ----------------- | --------------------------------------------------- | ------- | ---- |
-| Northern White Cedar | _Thuja occidentalis_   | Cupressaceae | Pinales | Mar–Apr (cones)   | Scale-like foliage; conifer swamps                  | ![foliage](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Thuja_occidentalis_foliage_Wisconsin.jpg/320px-Thuja_occidentalis_foliage_Wisconsin.jpg) | ![bark](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Thuja_occidentalis_trunk.jpg/320px-Thuja_occidentalis_trunk.jpg) |
-| Eastern Red Cedar    | _Juniperus virginiana_ | Cupressaceae | Pinales | Mar–Apr (cones)   | Actually a juniper; scale-like foliage              | ![foliage](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Juniper_berries_q.jpg/320px-Juniper_berries_q.jpg) | ![bark](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Juniperus_virginiana%E2%80%94bark.jpg/320px-Juniperus_virginiana%E2%80%94bark.jpg) |
-| Eastern Hemlock      | _Tsuga canadensis_     | Pinaceae     | Pinales | Apr–May (cones)   | Short soft needles; western edge of its range in MN | ![foliage](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Eastern_Hemlock_Branch_253271179.jpg/320px-Eastern_Hemlock_Branch_253271179.jpg) | ![bark](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TsugaCanadensisBark.jpg/320px-TsugaCanadensisBark.jpg) |
+| Common Name          | Scientific Name        | Family       | Order   | Bloom Time        | Notes                                               | Wikipedia |
+| -------------------- | ---------------------- | ------------ | ------- | ----------------- | --------------------------------------------------- | --------- |
+| Northern White Cedar | _Thuja occidentalis_   | Cupressaceae | Pinales | Mar–Apr (cones)   | Scale-like foliage; conifer swamps                  | [Wikipedia](https://en.wikipedia.org/wiki/Thuja_occidentalis) |
+| Eastern Red Cedar    | _Juniperus virginiana_ | Cupressaceae | Pinales | Mar–Apr (cones)   | Actually a juniper; scale-like foliage              | [Wikipedia](https://en.wikipedia.org/wiki/Juniperus_virginiana) |
+| Eastern Hemlock      | _Tsuga canadensis_     | Pinaceae     | Pinales | Apr–May (cones)   | Short soft needles; western edge of its range in MN | [Wikipedia](https://en.wikipedia.org/wiki/Tsuga_canadensis) |
 
 ### Special Case: Tamarack
 
@@ -50,9 +50,9 @@ Most native conifers are more common in northern Minnesota but appear in parks a
 
 **Ecosystem role:** Tamarack thrives in cold, acidic, waterlogged peat bogs where almost nothing else can survive. It's thought that dropping needles in winter is an adaptation to reduce water loss in frozen soils where liquid water is unavailable even though the ground isn't dry. Tamarack bogs are slow-accumulating carbon sinks — the peat beneath them can be thousands of years old. They also support a unique community of plants found nowhere else: sundews, pitcher plants, bog rosemary, and leatherleaf.
 
-| Common Name | Scientific Name  | Family   | Order   | Bloom Time       | Notes                                                                                                  | Foliage | Bark |
-| ----------- | ---------------- | -------- | ------- | ---------------- | ------------------------------------------------------------------------------------------------------ | ------- | ---- |
-| Tamarack    | _Larix laricina_ | Pinaceae | Pinales | Apr–May (cones)  | Minnesota's only **deciduous** conifer; turns gold and drops needles in fall; loves bogs and wet soils | ![foliage](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Larix_laricina_needles_close_up.jpg/320px-Larix_laricina_needles_close_up.jpg) | ![bark](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Larix_laricina_bark.jpg/320px-Larix_laricina_bark.jpg) |
+| Common Name | Scientific Name  | Family   | Order   | Bloom Time       | Notes                                                                                                  | Wikipedia |
+| ----------- | ---------------- | -------- | ------- | ---------------- | ------------------------------------------------------------------------------------------------------ | --------- |
+| Tamarack    | _Larix laricina_ | Pinaceae | Pinales | Apr–May (cones)  | Minnesota's only **deciduous** conifer; turns gold and drops needles in fall; loves bogs and wet soils | [Wikipedia](https://en.wikipedia.org/wiki/Larix_laricina) |
 
 ---
 
@@ -68,14 +68,14 @@ The maple-basswood forest is the dominant native ecosystem in central/southeaste
 
 **Ecosystem role:** Sugar maple is the foundation of the eastern deciduous forest. Its dense canopy creates deep shade that suppresses competitors, and its leaf litter breaks down into rich, fertile soil — making maple forests some of the most productive in North America. The brilliant fall color isn't waste: as the tree reabsorbs nutrients from leaves before dropping them, the red pigments (anthocyanins) produced may act as a signal to aphids that the tree is well-defended, discouraging them from laying overwintering eggs. Box elder, despite being weedy and underappreciated, is one of the most important early-season nectar trees for native bees, and its seeds feed a huge range of birds through winter. The box elder bug — that red-and-black insect that shows up on warm walls in fall — feeds almost exclusively on box elder seeds.
 
-| Common Name                 | Scientific Name    | Family      | Order      | Bloom Time  | Notes                                                                                                               | Foliage | Bark |
-| --------------------------- | ------------------ | ----------- | ---------- | ----------- | ------------------------------------------------------------------------------------------------------------------- | ------- | ---- |
-| Sugar Maple                 | _Acer saccharum_   | Sapindaceae | Sapindales | Apr         | Classic fall color (scarlet, orange, yellow); sap for syrup                                                         | ![foliage](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/2014-11-02_15_08_37_Sugar_Maple_foliage_during_autumn_along_Parkway_Avenue_in_Ewing%2C_New_Jersey.jpg/320px-2014-11-02_15_08_37_Sugar_Maple_foliage_during_autumn_along_Parkway_Avenue_in_Ewing%2C_New_Jersey.jpg) | ![bark](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Sugar_Maple_Acer_saccharum_Trunk_base_3264px.jpg/320px-Sugar_Maple_Acer_saccharum_Trunk_base_3264px.jpg) |
-| Red Maple                   | _Acer rubrum_      | Sapindaceae | Sapindales | Mar–Apr     | Red flowers in spring; variable fall color                                                                          | ![foliage](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Acer_rubrum.jpg/320px-Acer_rubrum.jpg) | ![bark](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Acerbark8344.jpg/320px-Acerbark8344.jpg) |
-| Silver Maple                | _Acer saccharinum_ | Sapindaceae | Sapindales | Mar–Apr     | Silvery leaf undersides; common along rivers                                                                        | ![foliage](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Silver_maple_leaf.jpg/320px-Silver_maple_leaf.jpg) | ![bark](https://upload.wikimedia.org/wikipedia/commons/8/8f/Silver-maple-bark.jpg) |
-| Black Maple                 | _Acer nigrum_      | Sapindaceae | Sapindales | Apr         | Very similar to sugar maple; eastern MN                                                                             | ![foliage](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Acer_nigrum_leaves_1.png/320px-Acer_nigrum_leaves_1.png) | ![bark](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Acer_nigrum_Tronc.jpg/320px-Acer_nigrum_Tronc.jpg) |
-| Box Elder                   | _Acer negundo_     | Sapindaceae | Sapindales | Apr–May     | A maple with compound leaves — often mistaken for ash; one of the 3 most common urban trees in Minneapolis          | ![foliage](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Boxelder_%28Acer_negudo%29_with_young_fruit_-_Flickr_-_Jay_Sturner.jpg/320px-Boxelder_%28Acer_negudo%29_with_young_fruit_-_Flickr_-_Jay_Sturner.jpg) | ![bark](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Acer_negundo-bark.JPG/320px-Acer_negundo-bark.JPG) |
-| Norway Maple _(introduced)_ | _Acer platanoides_ | Sapindaceae | Sapindales | Apr–May     | European; widely planted as a boulevard tree; milky white sap at broken leaf stem distinguishes it from sugar maple | ![foliage](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/2020_year._Herbarium._Acer_platanoides._img-001.jpg/320px-2020_year._Herbarium._Acer_platanoides._img-001.jpg) | ![bark](https://upload.wikimedia.org/wikipedia/commons/3/3a/Norway-maple-bark.jpg) |
+| Common Name                 | Scientific Name    | Family      | Order      | Bloom Time  | Notes                                                                                                               | Wikipedia |
+| --------------------------- | ------------------ | ----------- | ---------- | ----------- | ------------------------------------------------------------------------------------------------------------------- | --------- |
+| Sugar Maple                 | _Acer saccharum_   | Sapindaceae | Sapindales | Apr         | Classic fall color (scarlet, orange, yellow); sap for syrup                                                         | [Wikipedia](https://en.wikipedia.org/wiki/Acer_saccharum) |
+| Red Maple                   | _Acer rubrum_      | Sapindaceae | Sapindales | Mar–Apr     | Red flowers in spring; variable fall color                                                                          | [Wikipedia](https://en.wikipedia.org/wiki/Acer_rubrum) |
+| Silver Maple                | _Acer saccharinum_ | Sapindaceae | Sapindales | Mar–Apr     | Silvery leaf undersides; common along rivers                                                                        | [Wikipedia](https://en.wikipedia.org/wiki/Acer_saccharinum) |
+| Black Maple                 | _Acer nigrum_      | Sapindaceae | Sapindales | Apr         | Very similar to sugar maple; eastern MN                                                                             | [Wikipedia](https://en.wikipedia.org/wiki/Acer_nigrum) |
+| Box Elder                   | _Acer negundo_     | Sapindaceae | Sapindales | Apr–May     | A maple with compound leaves — often mistaken for ash; one of the 3 most common urban trees in Minneapolis          | [Wikipedia](https://en.wikipedia.org/wiki/Acer_negundo) |
+| Norway Maple _(introduced)_ | _Acer platanoides_ | Sapindaceae | Sapindales | Apr–May     | European; widely planted as a boulevard tree; milky white sap at broken leaf stem distinguishes it from sugar maple | [Wikipedia](https://en.wikipedia.org/wiki/Acer_platanoides) |
 
 ### Ashes _(Fraxinus)_
 
@@ -85,10 +85,10 @@ Opposite compound leaves with 5–11 leaflets. Currently under severe pressure f
 
 **Ecosystem role:** Ash trees are in ecological crisis. The emerald ash borer (EAB), an Asian beetle accidentally introduced to Michigan around 2002, has killed hundreds of millions of ash trees across North America. It reached Minnesota in 2009 and has devastated urban forests — Minneapolis alone has lost enormous numbers of boulevard trees. Because ash was planted so heavily as a monoculture replacement for elms, EAB has had an outsized impact. Ecologically, ash is a critical riparian tree along floodplains; its seeds are eaten by wood ducks and many songbirds, and its foliage supports several specialized moth species. The loss of ash is reshaping forest canopy across the region, opening gaps that invasive shrubs like buckthorn are quickly filling.
 
-| Common Name | Scientific Name          | Family   | Order    | Bloom Time | Notes                                                          | Foliage | Bark |
-| ----------- | ------------------------ | -------- | -------- | ---------- | -------------------------------------------------------------- | ------- | ---- |
-| Green Ash   | _Fraxinus pennsylvanica_ | Oleaceae | Lamiales | Apr–May    | One of the 3 most common urban trees in Minneapolis; adaptable | ![foliage](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Fraxinus_pensylvanica_a1.jpg/320px-Fraxinus_pensylvanica_a1.jpg) | ![bark](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Green_Ash_Fraxinus_pennsylvanica_Bark_2000px.jpg/320px-Green_Ash_Fraxinus_pennsylvanica_Bark_2000px.jpg) |
-| White Ash   | _Fraxinus americana_     | Oleaceae | Lamiales | Apr–May    | Similar; slightly larger leaflets; leaf undersides paler white | ![foliage](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/White_Ash_Leaves.jpg/320px-White_Ash_Leaves.jpg) | ![bark](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Fraxinus_americana-bark.jpg/320px-Fraxinus_americana-bark.jpg) |
+| Common Name | Scientific Name          | Family   | Order    | Bloom Time | Notes                                                          | Wikipedia |
+| ----------- | ------------------------ | -------- | -------- | ---------- | -------------------------------------------------------------- | --------- |
+| Green Ash   | _Fraxinus pennsylvanica_ | Oleaceae | Lamiales | Apr–May    | One of the 3 most common urban trees in Minneapolis; adaptable | [Wikipedia](https://en.wikipedia.org/wiki/Fraxinus_pennsylvanica) |
+| White Ash   | _Fraxinus americana_     | Oleaceae | Lamiales | Apr–May    | Similar; slightly larger leaflets; leaf undersides paler white | [Wikipedia](https://en.wikipedia.org/wiki/Fraxinus_americana) |
 
 ### Dogwoods _(Cornus)_
 
@@ -96,10 +96,10 @@ Opposite compound leaves with 5–11 leaflets. Currently under severe pressure f
 
 **Ecosystem role:** Dogwoods are exceptional wildlife plants. Their berries are unusually high in fat (most fruits are high in sugar) — a critical distinction for migrating birds that need to rapidly build fat reserves in fall. Over 35 bird species eat dogwood berries. Shrubby dogwoods like red-osier dogwood stabilize streambanks with their fibrous root systems, reduce erosion, and provide dense nesting cover. The dense thickets created by suckering dogwood shrubs are important small mammal habitat. Indigenous peoples used the hard wood for tool handles, the bark medicinally, and the straight stems for arrow shafts.
 
-| Common Name            | Scientific Name       | Family    | Order    | Bloom Time | Notes                                                                                                            | Foliage | Bark |
-| ---------------------- | --------------------- | --------- | -------- | ---------- | ---------------------------------------------------------------------------------------------------------------- | ------- | ---- |
-| Alternate-leaf Dogwood | _Cornus alternifolia_ | Cornaceae | Cornales | May–Jun    | Only tree-sized native dogwood in MN; alternate leaves (unusual for genus); tiered branching; blue-black berries | ![foliage](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Pagoda_Tree_Cornus_alternifolia_Leaf_Cluster_2500px.jpg/320px-Pagoda_Tree_Cornus_alternifolia_Leaf_Cluster_2500px.jpg) | ![bark](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Pagoda_Tree_Cornus_alternifolia_Trunk_2000px.jpg/320px-Pagoda_Tree_Cornus_alternifolia_Trunk_2000px.jpg) |
-| Pagoda Dogwood         | _Cornus alternifolia_ | Cornaceae | Cornales | May–Jun    | Same species as above; "pagoda" refers to its distinctive layered horizontal branching                           | ![foliage](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Pagoda_Tree_Cornus_alternifolia_Leaf_Cluster_2500px.jpg/320px-Pagoda_Tree_Cornus_alternifolia_Leaf_Cluster_2500px.jpg) | ![bark](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Pagoda_Tree_Cornus_alternifolia_Trunk_2000px.jpg/320px-Pagoda_Tree_Cornus_alternifolia_Trunk_2000px.jpg) |
+| Common Name            | Scientific Name       | Family    | Order    | Bloom Time | Notes                                                                                                            | Wikipedia |
+| ---------------------- | --------------------- | --------- | -------- | ---------- | ---------------------------------------------------------------------------------------------------------------- | --------- |
+| Alternate-leaf Dogwood | _Cornus alternifolia_ | Cornaceae | Cornales | May–Jun    | Only tree-sized native dogwood in MN; alternate leaves (unusual for genus); tiered branching; blue-black berries | [Wikipedia](https://en.wikipedia.org/wiki/Cornus_alternifolia) |
+| Pagoda Dogwood         | _Cornus alternifolia_ | Cornaceae | Cornales | May–Jun    | Same species as above; "pagoda" refers to its distinctive layered horizontal branching                           | [Wikipedia](https://en.wikipedia.org/wiki/Cornus_alternifolia) |
 
 ### Elderberry & Nannyberry _(Adoxaceae)_
 
@@ -109,12 +109,12 @@ Opposite compound leaves with 5–11 leaflets. Currently under severe pressure f
 
 **Ecosystem role:** Elderberry is one of the most productive wildlife shrubs in Minnesota. Its flowers attract dozens of native bee species, and its berries are consumed by over 50 bird species. Elderberries are edible for humans when cooked (raw berries cause nausea in many people) and have been used medicinally across many cultures. The hollow stems have long been used to make flutes, and the Ojibwe used elderberry widely in ceremony and medicine. Nannyberry and highbush cranberry berries are sweet and persist into winter — critical food when other sources are gone. Viburnums are among the most important shrubs for pollinators and birds in the Upper Midwest, and their dense growth provides excellent nesting and escape cover.
 
-| Common Name        | Scientific Name       | Family    | Order      | Bloom Time | Notes                                                                                                  | Foliage | Bark |
-| ------------------ | --------------------- | --------- | ---------- | ---------- | ------------------------------------------------------------------------------------------------------ | ------- | ---- |
-| Common Elderberry  | _Sambucus canadensis_ | Adoxaceae | Dipsacales | Jun–Jul    | Large shrub/small tree; flat-topped white flower clusters; purple-black berries; edible when cooked    | ![foliage](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Sambucus_canadensis_W_IMG_3149.jpg/320px-Sambucus_canadensis_W_IMG_3149.jpg) | |
-| Red Elderberry     | _Sambucus racemosa_   | Adoxaceae | Dipsacales | May–Jun    | Similar; rounded flower clusters; red berries; more northern range                                     | | |
-| Nannyberry         | _Viburnum lentago_    | Adoxaceae | Dipsacales | May–Jun    | Can reach small tree size; opposite simple leaves; sweet blue-black berries persist into winter        | ![foliage](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Viburnum_lentago_NRCS-006.jpg/320px-Viburnum_lentago_NRCS-006.jpg) | |
-| Highbush Cranberry | _Viburnum trilobum_   | Adoxaceae | Dipsacales | May–Jun    | Lobed maple-like leaves; showy outer sterile flowers; tart red berries; important winter wildlife food | ![foliage](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Viburnum_trilobum_%28highbush_cranberry%29.png/320px-Viburnum_trilobum_%28highbush_cranberry%29.png) | |
+| Common Name        | Scientific Name       | Family    | Order      | Bloom Time | Notes                                                                                                  | Wikipedia |
+| ------------------ | --------------------- | --------- | ---------- | ---------- | ------------------------------------------------------------------------------------------------------ | --------- |
+| Common Elderberry  | _Sambucus canadensis_ | Adoxaceae | Dipsacales | Jun–Jul    | Large shrub/small tree; flat-topped white flower clusters; purple-black berries; edible when cooked    | [Wikipedia](https://en.wikipedia.org/wiki/Sambucus_canadensis) |
+| Red Elderberry     | _Sambucus racemosa_   | Adoxaceae | Dipsacales | May–Jun    | Similar; rounded flower clusters; red berries; more northern range                                     | [Wikipedia](https://en.wikipedia.org/wiki/Sambucus_racemosa) |
+| Nannyberry         | _Viburnum lentago_    | Adoxaceae | Dipsacales | May–Jun    | Can reach small tree size; opposite simple leaves; sweet blue-black berries persist into winter        | [Wikipedia](https://en.wikipedia.org/wiki/Viburnum_lentago) |
+| Highbush Cranberry | _Viburnum trilobum_   | Adoxaceae | Dipsacales | May–Jun    | Lobed maple-like leaves; showy outer sterile flowers; tart red berries; important winter wildlife food | [Wikipedia](https://en.wikipedia.org/wiki/Viburnum_trilobum) |
 
 ### Buckeyes _(Aesculus)_
 
@@ -122,10 +122,10 @@ Opposite compound leaves with 5–11 leaflets. Currently under severe pressure f
 
 **Ecosystem role:** Ohio buckeye is one of the first trees to leaf out in spring and one of the first to go dormant in late summer, often dropping leaves in August while everything else is still green. The seeds contain toxic compounds (aesculin and others) that make them poisonous to most mammals and humans — yet squirrels can eat them in small quantities and bury them widely. Hummingbirds and long-tongued native bees are the primary pollinators, drawn to the tubular flowers. The smooth, eye-like seed was traditionally carried as a good luck charm, and the buckeye is the state symbol of Ohio. Buckeyes aren't abundant in Minnesota but are found in the south and are commonly planted in Twin Cities parks and yards.
 
-| Common Name    | Scientific Name   | Family      | Order      | Bloom Time | Notes                                                                            | Foliage | Bark |
-| -------------- | ----------------- | ----------- | ---------- | ---------- | -------------------------------------------------------------------------------- | ------- | ---- |
-| Ohio Buckeye   | _Aesculus glabra_ | Sapindaceae | Sapindales | Apr–May    | Native to southern MN edge; opposite palmate compound leaves; spiny husked seeds | ![foliage](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Aesculus_glabra_USDA.jpg/320px-Aesculus_glabra_USDA.jpg) | ![bark](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/AesculusGlabraBark.jpg/320px-AesculusGlabraBark.jpg) |
-| Yellow Buckeye | _Aesculus flava_  | Sapindaceae | Sapindales | Apr–May    | Similar; larger; smooth husks; occasionally planted                              | | |
+| Common Name    | Scientific Name   | Family      | Order      | Bloom Time | Notes                                                                            | Wikipedia |
+| -------------- | ----------------- | ----------- | ---------- | ---------- | -------------------------------------------------------------------------------- | --------- |
+| Ohio Buckeye   | _Aesculus glabra_ | Sapindaceae | Sapindales | Apr–May    | Native to southern MN edge; opposite palmate compound leaves; spiny husked seeds | [Wikipedia](https://en.wikipedia.org/wiki/Aesculus_glabra) |
+| Yellow Buckeye | _Aesculus flava_  | Sapindaceae | Sapindales | Apr–May    | Similar; larger; smooth husks; occasionally planted                              | [Wikipedia](https://en.wikipedia.org/wiki/Aesculus_flava) |
 
 ---
 
@@ -140,16 +140,16 @@ Oaks split cleanly into two groups based on leaf shape.
 **Ecosystem role:** Oaks are arguably the single most ecologically valuable tree genus in North America. They support more species of caterpillars (500+) than any other tree — and since most songbirds feed their nestlings almost exclusively on caterpillars, an oak is essentially a bird nursery. Acorns are a critical high-fat food for deer, turkeys, blue jays, squirrels, and black bears. Blue jays are key oak dispersers — they cache acorns up to a mile from the parent tree, planting far more than they retrieve. Bur oak deserves special mention: it's the oak of the prairie edge, with thick, fire-resistant bark and a deep taproot that let it survive the grassland fires that once regularly swept across the region. Ancient bur oaks on the Minnesota landscape predate European settlement and represent centuries of accumulated ecological history.
 
 **White Oaks** — rounded leaf lobes, acorns mature in 1 year
-| Common Name | Scientific Name | Family | Order | Bloom Time | Notes | Foliage | Bark |
-|---|---|---|---|---|---|---|---|
-| Bur Oak | _Quercus macrocarpa_ | Fagaceae | Fagales | Apr–May | Most widespread MN oak; distinctive fringed acorn cap; fiddle-shaped leaf widest near tip | ![foliage](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Quercus_macrocarpa_USDA.jpg/320px-Quercus_macrocarpa_USDA.jpg) | ![bark](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/QuercusMacrocarpa.jpg/320px-QuercusMacrocarpa.jpg) |
-| White Oak | _Quercus alba_ | Fagaceae | Fagales | Apr–May | Large spreading crown; 7–10 evenly-lobed leaves | | |
+| Common Name | Scientific Name | Family | Order | Bloom Time | Notes | Wikipedia |
+|---|---|---|---|---|---|---|
+| Bur Oak | _Quercus macrocarpa_ | Fagaceae | Fagales | Apr–May | Most widespread MN oak; distinctive fringed acorn cap; fiddle-shaped leaf widest near tip | [Wikipedia](https://en.wikipedia.org/wiki/Quercus_macrocarpa) |
+| White Oak | _Quercus alba_ | Fagaceae | Fagales | Apr–May | Large spreading crown; 7–10 evenly-lobed leaves | [Wikipedia](https://en.wikipedia.org/wiki/Quercus_alba) |
 
 **Red Oaks** — pointed, bristle-tipped leaf lobes, acorns mature in 2 years
-| Common Name | Scientific Name | Family | Order | Bloom Time | Notes | Foliage | Bark |
-|---|---|---|---|---|---|---|---|
-| Northern Red Oak | _Quercus rubra_ | Fagaceae | Fagales | Apr–May | Fast-growing; common in parks and natural areas | ![foliage](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Small_oak_branch.jpg/320px-Small_oak_branch.jpg) | ![bark](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Red_Oak_Quercus_Rubra_Bark_Vertical_High_DoF.JPG/320px-Red_Oak_Quercus_Rubra_Bark_Vertical_High_DoF.JPG) |
-| Black Oak | _Quercus velutina_ | Fagaceae | Fagales | Apr–May | Very dark, rough bark; inner bark yellow-orange | | |
+| Common Name | Scientific Name | Family | Order | Bloom Time | Notes | Wikipedia |
+|---|---|---|---|---|---|---|
+| Northern Red Oak | _Quercus rubra_ | Fagaceae | Fagales | Apr–May | Fast-growing; common in parks and natural areas | [Wikipedia](https://en.wikipedia.org/wiki/Quercus_rubra) |
+| Black Oak | _Quercus velutina_ | Fagaceae | Fagales | Apr–May | Very dark, rough bark; inner bark yellow-orange | [Wikipedia](https://en.wikipedia.org/wiki/Quercus_velutina) |
 
 ### Chestnuts _(Castanea)_
 
@@ -157,10 +157,10 @@ Oaks split cleanly into two groups based on leaf shape.
 
 **Ecosystem role:** American chestnut's story is one of the great ecological tragedies in North American history. Once called "the redwood of the east," it dominated Appalachian and eastern forests — so abundant that nut mast crunched underfoot for miles each fall, feeding bears, deer, turkeys, and countless other animals. A fungal blight (_Cryphonectria parasitica_), introduced on Asian nursery stock around 1904, spread at catastrophic speed and killed an estimated 3–4 billion trees within 50 years, functionally eliminating the species from the forest canopy. The root systems survive and still send up sprouts, but they rarely reach reproductive size before the blight kills them again. Restoration programs are developing blight-resistant hybrids. American chestnut's native range just barely touched the very southeastern corner of the country, not extending to Minnesota — but Chinese chestnut (_Castanea mollissima_), which is blight-resistant, is occasionally planted in the Twin Cities, and the American chestnut's story is important ecological context for understanding introduced disease.
 
-| Common Name                     | Scientific Name       | Family   | Order   | Bloom Time | Notes                                                                                            | Foliage | Bark |
-| ------------------------------- | --------------------- | -------- | ------- | ---------- | ------------------------------------------------------------------------------------------------ | ------- | ---- |
-| American Chestnut               | _Castanea dentata_    | Fagaceae | Fagales | Jun–Jul    | Native range does not reach MN; functionally extinct due to blight; ecologically important story | | |
-| Chinese Chestnut _(introduced)_ | _Castanea mollissima_ | Fagaceae | Fagales | Jun–Jul    | Blight-resistant; occasionally planted in Twin Cities; edible nuts                               | | |
+| Common Name                     | Scientific Name       | Family   | Order   | Bloom Time | Notes                                                                                            | Wikipedia |
+| ------------------------------- | --------------------- | -------- | ------- | ---------- | ------------------------------------------------------------------------------------------------ | --------- |
+| American Chestnut               | _Castanea dentata_    | Fagaceae | Fagales | Jun–Jul    | Native range does not reach MN; functionally extinct due to blight; ecologically important story | [Wikipedia](https://en.wikipedia.org/wiki/Castanea_dentata) |
+| Chinese Chestnut _(introduced)_ | _Castanea mollissima_ | Fagaceae | Fagales | Jun–Jul    | Blight-resistant; occasionally planted in Twin Cities; edible nuts                               | [Wikipedia](https://en.wikipedia.org/wiki/Castanea_mollissima) |
 
 ### Birches _(Betula)_
 
@@ -170,11 +170,11 @@ Distinctive jagged-edged leaves; most species have notable bark.
 
 **Ecosystem role:** Birches are pioneer species — among the first trees to colonize disturbed or burned ground. Their light seeds travel far on wind, and they grow quickly, preparing the soil and microclimate for slower-growing species like maples and oaks that will eventually replace them. Paper birch bark contains betulin, a white compound that reflects light, may protect against UV damage, and has antifungal properties — which is why birch bark resists decay far longer than the wood inside. The bark was a cornerstone material for Ojibwe and other Indigenous peoples, used for canoes, containers, and shelters. Birch catkins, buds, and seeds feed redpolls, pine siskins, and chickadees through winter.
 
-| Common Name  | Scientific Name         | Family     | Order   | Bloom Time | Notes                                                                     | Foliage | Bark |
-| ------------ | ----------------------- | ---------- | ------- | ---------- | ------------------------------------------------------------------------- | ------- | ---- |
-| Paper Birch  | _Betula papyrifera_     | Betulaceae | Fagales | Apr–May    | White peeling bark; golden fall color; iconic MN species                  | ![foliage](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Betula_papyrifera_8853.JPG/320px-Betula_papyrifera_8853.JPG) | ![bark](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Ecorce_de_bouleau.JPG/320px-Ecorce_de_bouleau.JPG) |
-| Yellow Birch | _Betula alleghaniensis_ | Betulaceae | Fagales | Apr–May    | Shiny yellowish peeling bark; wintergreen-scented twigs                   | ![foliage](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Betula_alleghaniensis_2017-05-23_0587.jpg/320px-Betula_alleghaniensis_2017-05-23_0587.jpg) | ![bark](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/B_alleghaniensis_01.jpg/320px-B_alleghaniensis_01.jpg) |
-| River Birch  | _Betula nigra_          | Betulaceae | Fagales | Mar–Apr    | Peeling salmon/tan bark; floodplains; increasingly planted in Twin Cities | ![foliage](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Betula_nigra_%28river_birch%29_%2827880297709%29.jpg/320px-Betula_nigra_%28river_birch%29_%2827880297709%29.jpg) | ![bark](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/RiverBirchBark01.JPG/320px-RiverBirchBark01.JPG) |
+| Common Name  | Scientific Name         | Family     | Order   | Bloom Time | Notes                                                                     | Wikipedia |
+| ------------ | ----------------------- | ---------- | ------- | ---------- | ------------------------------------------------------------------------- | --------- |
+| Paper Birch  | _Betula papyrifera_     | Betulaceae | Fagales | Apr–May    | White peeling bark; golden fall color; iconic MN species                  | [Wikipedia](https://en.wikipedia.org/wiki/Betula_papyrifera) |
+| Yellow Birch | _Betula alleghaniensis_ | Betulaceae | Fagales | Apr–May    | Shiny yellowish peeling bark; wintergreen-scented twigs                   | [Wikipedia](https://en.wikipedia.org/wiki/Betula_alleghaniensis) |
+| River Birch  | _Betula nigra_          | Betulaceae | Fagales | Mar–Apr    | Peeling salmon/tan bark; floodplains; increasingly planted in Twin Cities | [Wikipedia](https://en.wikipedia.org/wiki/Betula_nigra) |
 
 ### Walnuts & Hickories
 
@@ -184,12 +184,12 @@ Compound leaves; valuable hardwoods; produce edible nuts.
 
 **Ecosystem role:** Black walnut produces juglone, a chemical released from its roots and decomposing leaves that is toxic to many plants — tomatoes, apples, and many garden species will die if planted near one. This allelopathy is the tree's way of reducing competition for water and light. Despite this, black walnut is a keystone for squirrels, which bury far more nuts than they recover, effectively planting the next generation of trees. Hickory nuts are among the highest-calorie foods in the forest and were a staple for Indigenous peoples who processed them into a nutritious oil. The wood of both walnuts and hickories is among the hardest and most shock-resistant of any North American tree — hickory was the preferred wood for tool handles and wagon wheels for centuries.
 
-| Common Name       | Scientific Name     | Family       | Order   | Bloom Time | Notes                                                                           | Foliage | Bark |
-| ----------------- | ------------------- | ------------ | ------- | ---------- | ------------------------------------------------------------------------------- | ------- | ---- |
-| Black Walnut      | _Juglans nigra_     | Juglandaceae | Fagales | May–Jun    | Round green husks; chambered twig pith; produces chemicals toxic to some plants | ![foliage](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Black_Walnut_nut_and_leave_detail.JPG/320px-Black_Walnut_nut_and_leave_detail.JPG) | ![bark](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Black_walnut_bark_1.jpg/320px-Black_walnut_bark_1.jpg) |
-| Butternut         | _Juglans cinerea_   | Juglandaceae | Fagales | May–Jun    | Elongated (not round) husks; sticky; similar to walnut                          | ![foliage](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Juglans_cinerea_male.jpg/320px-Juglans_cinerea_male.jpg) | ![bark](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Juglans_cinerea_002.JPG/320px-Juglans_cinerea_002.JPG) |
-| Shagbark Hickory  | _Carya ovata_       | Juglandaceae | Fagales | Apr–May    | Distinctive shaggy, peeling plates of bark                                      | ![foliage](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Shagbark_hickory_spring_leaf_cluster.jpg/320px-Shagbark_hickory_spring_leaf_cluster.jpg) | ![bark](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/2021-03-03_10_34_58_Shagbark_Hickory_trunk_within_the_woodlands_along_the_West_Branch_Shabakunk_Creek_in_Ewing_Township%2C_Mercer_County%2C_New_Jersey.jpg/320px-2021-03-03_10_34_58_Shagbark_Hickory_trunk_within_the_woodlands_along_the_West_Branch_Shabakunk_Creek_in_Ewing_Township%2C_Mercer_County%2C_New_Jersey.jpg) |
-| Bitternut Hickory | _Carya cordiformis_ | Juglandaceae | Fagales | Apr–May    | Sulfur-yellow buds in winter; smoother bark than shagbark                       | ![foliage](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Carya_cordiformis_leaf.jpg/320px-Carya_cordiformis_leaf.jpg) | ![bark](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Carya_cordiformis_%28Bitternut_Hickory%29_%2833323804856%29.jpg/320px-Carya_cordiformis_%28Bitternut_Hickory%29_%2833323804856%29.jpg) |
+| Common Name       | Scientific Name     | Family       | Order   | Bloom Time | Notes                                                                           | Wikipedia |
+| ----------------- | ------------------- | ------------ | ------- | ---------- | ------------------------------------------------------------------------------- | --------- |
+| Black Walnut      | _Juglans nigra_     | Juglandaceae | Fagales | May–Jun    | Round green husks; chambered twig pith; produces chemicals toxic to some plants | [Wikipedia](https://en.wikipedia.org/wiki/Juglans_nigra) |
+| Butternut         | _Juglans cinerea_   | Juglandaceae | Fagales | May–Jun    | Elongated (not round) husks; sticky; similar to walnut                          | [Wikipedia](https://en.wikipedia.org/wiki/Juglans_cinerea) |
+| Shagbark Hickory  | _Carya ovata_       | Juglandaceae | Fagales | Apr–May    | Distinctive shaggy, peeling plates of bark                                      | [Wikipedia](https://en.wikipedia.org/wiki/Carya_ovata) |
+| Bitternut Hickory | _Carya cordiformis_ | Juglandaceae | Fagales | Apr–May    | Sulfur-yellow buds in winter; smoother bark than shagbark                       | [Wikipedia](https://en.wikipedia.org/wiki/Carya_cordiformis) |
 
 ### Elms _(Ulmus)_
 
@@ -199,11 +199,11 @@ The American elm was once the dominant boulevard tree in Minneapolis (200,000–
 
 **Ecosystem role:** American elm was the tree that defined the Midwest street. Its vase shape created a cathedral canopy over city boulevards, cooling streets and creating habitat. Dutch elm disease — caused by a fungus spread by elm bark beetles — arrived in the US in the 1930s and by the 1970s had devastated urban elm populations across the country. Minneapolis lost most of its elms by the 1980s. The die-off was ecologically significant beyond aesthetics: the sudden opening of a closed canopy, combined with piles of dead wood, temporarily created boom conditions for woodpeckers and wood-decay fungi before the habitat collapsed. Today, elm removal in Minneapolis is a continuous management challenge, and disease-resistant hybrid elms are being gradually reintroduced.
 
-| Common Name  | Scientific Name   | Family   | Order   | Bloom Time | Notes                                                                        | Foliage | Bark |
-| ------------ | ----------------- | -------- | ------- | ---------- | ---------------------------------------------------------------------------- | ------- | ---- |
-| American Elm | _Ulmus americana_ | Ulmaceae | Rosales | Mar–Apr    | Classic vase shape; one of the 3 most common urban trees; rough-edged leaves | ![foliage](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ulmus_americana_%285102579562%29.jpg/320px-Ulmus_americana_%285102579562%29.jpg) | ![bark](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/ElmBark.jpg/320px-ElmBark.jpg) |
-| Slippery Elm | _Ulmus rubra_     | Ulmaceae | Rosales | Mar–Apr    | Very sandpapery upper leaf surface; fuzzy twigs and buds                     | | |
-| Rock Elm     | _Ulmus thomasii_  | Ulmaceae | Rosales | Mar–Apr    | Corky ridges on twigs and smaller branches; hardy                            | | |
+| Common Name  | Scientific Name   | Family   | Order   | Bloom Time | Notes                                                                        | Wikipedia |
+| ------------ | ----------------- | -------- | ------- | ---------- | ---------------------------------------------------------------------------- | --------- |
+| American Elm | _Ulmus americana_ | Ulmaceae | Rosales | Mar–Apr    | Classic vase shape; one of the 3 most common urban trees; rough-edged leaves | [Wikipedia](https://en.wikipedia.org/wiki/Ulmus_americana) |
+| Slippery Elm | _Ulmus rubra_     | Ulmaceae | Rosales | Mar–Apr    | Very sandpapery upper leaf surface; fuzzy twigs and buds                     | [Wikipedia](https://en.wikipedia.org/wiki/Ulmus_rubra) |
+| Rock Elm     | _Ulmus thomasii_  | Ulmaceae | Rosales | Mar–Apr    | Corky ridges on twigs and smaller branches; hardy                            | [Wikipedia](https://en.wikipedia.org/wiki/Ulmus_thomasii) |
 
 ### Basswood / Linden _(Tilia)_
 
@@ -211,10 +211,10 @@ The American elm was once the dominant boulevard tree in Minneapolis (200,000–
 
 **Ecosystem role:** Basswood is one of the most important nectar trees in the eastern US. When it blooms in late June to early July, the flowers produce so much nectar that the hum of bees is audible from a distance — basswood honey is prized for its mild flavor. The fragrance can fill an entire forest. Beyond pollinators, basswood is a soft wood that rots relatively quickly once dead, creating excellent cavity habitat for woodpeckers and secondary cavity nesters like bluebirds and chickadees. Its fibrous inner bark (bast) was extensively used by Indigenous peoples for rope and cordage — the name "basswood" comes from "bast."
 
-| Common Name                       | Scientific Name   | Family    | Order    | Bloom Time | Notes                                                                                                 | Foliage | Bark |
-| --------------------------------- | ----------------- | --------- | -------- | ---------- | ----------------------------------------------------------------------------------------------------- | ------- | ---- |
-| American Basswood                 | _Tilia americana_ | Malvaceae | Malvales | Jun–Jul    | Large heart-shaped leaves; fragrant summer flowers beloved by bees; core of the maple-basswood forest | ![foliage](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Tilia_americana_NRCS-2.jpg/320px-Tilia_americana_NRCS-2.jpg) | ![bark](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tilia_americana_bark.jpg/320px-Tilia_americana_bark.jpg) |
-| Little-leaf Linden _(introduced)_ | _Tilia cordata_   | Malvaceae | Malvales | Jun–Jul    | European; same strap-like bract; smaller leaves than basswood                                         | | |
+| Common Name                       | Scientific Name   | Family    | Order    | Bloom Time | Notes                                                                                                 | Wikipedia |
+| --------------------------------- | ----------------- | --------- | -------- | ---------- | ----------------------------------------------------------------------------------------------------- | --------- |
+| American Basswood                 | _Tilia americana_ | Malvaceae | Malvales | Jun–Jul    | Large heart-shaped leaves; fragrant summer flowers beloved by bees; core of the maple-basswood forest | [Wikipedia](https://en.wikipedia.org/wiki/Tilia_americana) |
+| Little-leaf Linden _(introduced)_ | _Tilia cordata_   | Malvaceae | Malvales | Jun–Jul    | European; same strap-like bract; smaller leaves than basswood                                         | [Wikipedia](https://en.wikipedia.org/wiki/Tilia_cordata) |
 
 ### Poplars & Aspens _(Populus)_
 
@@ -224,12 +224,12 @@ Fast-growing, short-lived, weak-wooded. Quaking aspen is the most abundant tree 
 
 **Ecosystem role:** Quaking aspen is often described as a "foundation species" of the boreal forest — it creates the conditions that allow dozens of other species to thrive. Its leaves decompose faster than almost any other tree's, rapidly recycling nutrients. Aspen stands are frequently clonal: what looks like a grove of separate trees is often a single organism connected by a shared root system, all genetically identical. One such clone in Utah ("Pando") is estimated to weigh 6 million kilograms and may be among the oldest living organisms on Earth. Aspen are critical for ruffed grouse (they eat the buds), beavers (they eat the bark and use the wood), and moose (browsing). Cottonwoods anchor riverbanks and their canopy creates the riparian corridor habitat that wildlife use as travel routes across the landscape.
 
-| Common Name        | Scientific Name         | Family     | Order        | Bloom Time | Notes                                                                                      | Foliage | Bark |
-| ------------------ | ----------------------- | ---------- | ------------ | ---------- | ------------------------------------------------------------------------------------------ | ------- | ---- |
-| Quaking Aspen      | _Populus tremuloides_   | Salicaceae | Malpighiales | Mar–Apr    | Pale smooth bark; flattened leaf stalks cause constant trembling; golden fall color        | ![foliage](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Populus_tremuloides_8163.jpg/320px-Populus_tremuloides_8163.jpg) | ![bark](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Trembling_aspen_%28275499901%29.jpg/320px-Trembling_aspen_%28275499901%29.jpg) |
-| Bigtooth Aspen     | _Populus grandidentata_ | Salicaceae | Malpighiales | Apr        | Similar to quaking; larger, coarser teeth on leaf edges                                    | ![foliage](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Large-toothed_aspen_leaf_%28Grasett_Twp%29.JPG/320px-Large-toothed_aspen_leaf_%28Grasett_Twp%29.JPG) | |
-| Eastern Cottonwood | _Populus deltoides_     | Salicaceae | Malpighiales | Apr–May    | Minnesota's tallest native tree; large triangular leaves; deeply furrowed bark at maturity | ![foliage](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Peuplier_deltoCafe_feuillage.jpg/320px-Peuplier_deltoCafe_feuillage.jpg) | ![bark](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Bark_on_bole_of_mature_Eastern_Cottonwood.jpg/320px-Bark_on_bole_of_mature_Eastern_Cottonwood.jpg) |
-| Balsam Poplar      | _Populus balsamifera_   | Salicaceae | Malpighiales | Apr        | Sticky, fragrant buds; northern MN                                                         | | |
+| Common Name        | Scientific Name         | Family     | Order        | Bloom Time | Notes                                                                                      | Wikipedia |
+| ------------------ | ----------------------- | ---------- | ------------ | ---------- | ------------------------------------------------------------------------------------------ | --------- |
+| Quaking Aspen      | _Populus tremuloides_   | Salicaceae | Malpighiales | Mar–Apr    | Pale smooth bark; flattened leaf stalks cause constant trembling; golden fall color        | [Wikipedia](https://en.wikipedia.org/wiki/Populus_tremuloides) |
+| Bigtooth Aspen     | _Populus grandidentata_ | Salicaceae | Malpighiales | Apr        | Similar to quaking; larger, coarser teeth on leaf edges                                    | [Wikipedia](https://en.wikipedia.org/wiki/Populus_grandidentata) |
+| Eastern Cottonwood | _Populus deltoides_     | Salicaceae | Malpighiales | Apr–May    | Minnesota's tallest native tree; large triangular leaves; deeply furrowed bark at maturity | [Wikipedia](https://en.wikipedia.org/wiki/Populus_deltoides) |
+| Balsam Poplar      | _Populus balsamifera_   | Salicaceae | Malpighiales | Apr        | Sticky, fragrant buds; northern MN                                                         | [Wikipedia](https://en.wikipedia.org/wiki/Populus_balsamifera) |
 
 ### Wild Cherry _(Prunus)_
 
@@ -237,10 +237,10 @@ Fast-growing, short-lived, weak-wooded. Quaking aspen is the most abundant tree 
 
 **Ecosystem role:** Black cherry is ecologically dominant in secondary forests — it rapidly colonizes abandoned fields and forest gaps. It's one of the most important wildlife trees in eastern North America: over 200 species of moths and butterflies use it as a larval host plant, making it second only to oaks in supporting caterpillar diversity, and its fruits are eaten by nearly every fruit-eating bird in the region. The almond smell in the leaves comes from cyanogenic glycosides — compounds that can convert to hydrogen cyanide, which can poison livestock that eat wilted leaves (wilting releases the compound; fresh leaves are less dangerous). The wood is among the most prized in North America for fine furniture, and black cherry was a traditional food source for Indigenous peoples who dried the fruits and pounded them into pemmican.
 
-| Common Name  | Scientific Name       | Family   | Order   | Bloom Time | Notes                                                                                        | Foliage | Bark |
-| ------------ | --------------------- | -------- | ------- | ---------- | -------------------------------------------------------------------------------------------- | ------- | ---- |
-| Black Cherry | _Prunus serotina_     | Rosaceae | Rosales | Apr–May    | Native MN tree; horizontal bark lenticels; almond-scented leaves; dark fruits in late summer | ![foliage](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Amerikaanse_vogelkers_Prunus_serotina_closeup.jpg/320px-Amerikaanse_vogelkers_Prunus_serotina_closeup.jpg) | ![bark](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/PrunusSerotinaBark.jpg/320px-PrunusSerotinaBark.jpg) |
-| Pin Cherry   | _Prunus pensylvanica_ | Rosaceae | Rosales | Apr–May    | Smaller; bright red fruits; pioneer species after disturbance; common in northern MN         | | |
+| Common Name  | Scientific Name       | Family   | Order   | Bloom Time | Notes                                                                                        | Wikipedia |
+| ------------ | --------------------- | -------- | ------- | ---------- | -------------------------------------------------------------------------------------------- | --------- |
+| Black Cherry | _Prunus serotina_     | Rosaceae | Rosales | Apr–May    | Native MN tree; horizontal bark lenticels; almond-scented leaves; dark fruits in late summer | [Wikipedia](https://en.wikipedia.org/wiki/Prunus_serotina) |
+| Pin Cherry   | _Prunus pensylvanica_ | Rosaceae | Rosales | Apr–May    | Smaller; bright red fruits; pioneer species after disturbance; common in northern MN         | [Wikipedia](https://en.wikipedia.org/wiki/Prunus_pensylvanica) |
 
 ### Commonly Planted Non-Native Trees
 
@@ -252,11 +252,11 @@ Fast-growing, short-lived, weak-wooded. Quaking aspen is the most abundant tree 
 
 **Ecosystem role:** These trees illustrate how urban forests are a mix of ecology and human history. Honeylocust was plastered across Minneapolis boulevards as a Dutch elm disease replacement in the 1970s–80s, chosen partly because its small leaflets meant less raking — a real planning consideration. Wild honeylocust has massive branching thorns thought to have evolved to deter now-extinct Pleistocene megafauna (mastodons, giant ground sloths). Catalpa flowers have evolved a landing-strip pattern of spots visible only in UV, guiding bees to nectar, and the tree is the sole host for the catalpa sphinx moth — whose large caterpillars are prized by anglers as fishing bait. Crabapples are among the most valuable ornamental trees for wildlife: their persistent small fruits feed robins, waxwings, and other birds through the harshest winter months when little else is available.
 
-| Common Name      | Scientific Name         | Family       | Order    | Bloom Time | Notes                                                                                         | Foliage | Bark |
-| ---------------- | ----------------------- | ------------ | -------- | ---------- | --------------------------------------------------------------------------------------------- | ------- | ---- |
-| Honeylocust      | _Gleditsia triacanthos_ | Fabaceae     | Fabales  | May–Jun    | Fine, feathery compound leaves; thorny; widely planted after Dutch elm disease wiped out elms | ![foliage](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gleditsia_triacanthos_20050730_738.jpg/320px-Gleditsia_triacanthos_20050730_738.jpg) | ![bark](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Gleditsia_triacanthos_bark.jpg/320px-Gleditsia_triacanthos_bark.jpg) |
-| Northern Catalpa | _Catalpa speciosa_      | Bignoniaceae | Lamiales | Jun–Jul    | Giant heart-shaped leaves; long bean-like pods; showy white flowers                           | ![foliage](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Catalpa_speciosa_leaf_20060624.jpg/320px-Catalpa_speciosa_leaf_20060624.jpg) | ![bark](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Cataspec.jpg/320px-Cataspec.jpg) |
-| Crabapple        | _Malus_ spp.            | Rosaceae     | Rosales  | Apr–May    | Spring flowers, small fruits; 120+ cultivars; very common ornamental                          | | |
+| Common Name      | Scientific Name         | Family       | Order    | Bloom Time | Notes                                                                                         | Wikipedia |
+| ---------------- | ----------------------- | ------------ | -------- | ---------- | --------------------------------------------------------------------------------------------- | --------- |
+| Honeylocust      | _Gleditsia triacanthos_ | Fabaceae     | Fabales  | May–Jun    | Fine, feathery compound leaves; thorny; widely planted after Dutch elm disease wiped out elms | [Wikipedia](https://en.wikipedia.org/wiki/Gleditsia_triacanthos) |
+| Northern Catalpa | _Catalpa speciosa_      | Bignoniaceae | Lamiales | Jun–Jul    | Giant heart-shaped leaves; long bean-like pods; showy white flowers                           | [Wikipedia](https://en.wikipedia.org/wiki/Catalpa_speciosa) |
+| Crabapple        | _Malus_ spp.            | Rosaceae     | Rosales  | Apr–May    | Spring flowers, small fruits; 120+ cultivars; very common ornamental                          | [Wikipedia](https://en.wikipedia.org/wiki/Malus) |
 
 ---
 
