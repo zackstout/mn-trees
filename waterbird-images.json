@@ -1,0 +1,252 @@
+{
+  "Anas platyrhynchos": {
+    "common": "Mallard",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Anas_platyrhynchos_male_female_quadrat.jpg/250px-Anas_platyrhynchos_male_female_quadrat.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Mallard"
+  },
+  "Anas rubripes": {
+    "common": "American Black Duck",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/American_Black_Duck_pair_at_Green_Wood_Cemetery%2C_Brooklyn_%2862110%29.jpg/250px-American_Black_Duck_pair_at_Green_Wood_Cemetery%2C_Brooklyn_%2862110%29.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/American_black_duck"
+  },
+  "Spatula discors": {
+    "common": "Blue-winged Teal",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Blue-Winged_Teal.jpg/250px-Blue-Winged_Teal.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Blue-winged_teal"
+  },
+  "Anas crecca": {
+    "common": "Green-winged Teal",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Green-winged_Teal%2C_Port_Aransas%2C_Texas.jpg/250px-Green-winged_Teal%2C_Port_Aransas%2C_Texas.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Green-winged_teal"
+  },
+  "Spatula clypeata": {
+    "common": "Northern Shoveler",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Bommer_Weiher_-_Erpel_der_L%C3%B6ffelente.jpg/250px-Bommer_Weiher_-_Erpel_der_L%C3%B6ffelente.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Northern_shoveler"
+  },
+  "Anas acuta": {
+    "common": "Northern Pintail",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Northern_Pintails_%28Male_%26_Female%29_I_IMG_0911.jpg/250px-Northern_Pintails_%28Male_%26_Female%29_I_IMG_0911.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Northern_pintail"
+  },
+  "Aix sponsa": {
+    "common": "Wood Duck",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Wood_Duck_Wissahickon_Creek.png/250px-Wood_Duck_Wissahickon_Creek.png",
+    "pageUrl": "https://en.wikipedia.org/wiki/Wood_duck"
+  },
+  "Mareca americana": {
+    "common": "American Wigeon",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/American_Wigeon_Male.jpg/250px-American_Wigeon_Male.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/American_wigeon"
+  },
+  "Aythya collaris": {
+    "common": "Ring-necked Duck",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ring-Necked_Duck.jpg/250px-Ring-Necked_Duck.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Ring-necked_duck"
+  },
+  "Aythya affinis": {
+    "common": "Lesser Scaup",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Drake_Lesser_Scaup_%28Aythya_affinis%29_Barengat_Inlet%2C_New_Jersey%2C_USA.jpg/250px-Drake_Lesser_Scaup_%28Aythya_affinis%29_Barengat_Inlet%2C_New_Jersey%2C_USA.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Lesser_scaup"
+  },
+  "Aythya marila": {
+    "common": "Greater Scaup",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Drake_Greater_scaup_%28Aythya_marila%29_Barnegat_Inlet%2C_New_Jersey%2C_USA.jpg/250px-Drake_Greater_scaup_%28Aythya_marila%29_Barnegat_Inlet%2C_New_Jersey%2C_USA.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Greater_scaup"
+  },
+  "Bucephala clangula": {
+    "common": "Common Goldeneye",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Common_Goldeneye_%28Bucephala_clangula%29.jpg/250px-Common_Goldeneye_%28Bucephala_clangula%29.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Common_goldeneye"
+  },
+  "Bucephala albeola": {
+    "common": "Bufflehead",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Drake_Bufflehead_LBI_%28cropped%29.png/250px-Drake_Bufflehead_LBI_%28cropped%29.png",
+    "pageUrl": "https://en.wikipedia.org/wiki/Bufflehead"
+  },
+  "Aythya valisineria": {
+    "common": "Canvasback",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Aythya_valisineria_at_Las_Gallinas_Wildlife_Ponds.jpg/250px-Aythya_valisineria_at_Las_Gallinas_Wildlife_Ponds.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Canvasback"
+  },
+  "Aythya americana": {
+    "common": "Redhead",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Redhead_-_Aythya_americana%2C_Oakley_Street%2C_Cambridge%2C_Maryland.jpg/250px-Redhead_-_Aythya_americana%2C_Oakley_Street%2C_Cambridge%2C_Maryland.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Aythya_americana"
+  },
+  "Oxyura jamaicensis": {
+    "common": "Ruddy Duck",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Ruddy_Duck_%28Oxyura_jamaicensis%29_RWD2.jpg/250px-Ruddy_Duck_%28Oxyura_jamaicensis%29_RWD2.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Ruddy_duck"
+  },
+  "Branta canadensis": {
+    "common": "Canada Goose",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Canada_goose.jpg/250px-Canada_goose.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Canada_goose"
+  },
+  "Branta hutchinsii": {
+    "common": "Cackling Goose",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/20260426_cackling_goose_ford_lake_PD07933.jpg/250px-20260426_cackling_goose_ford_lake_PD07933.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Cackling_goose"
+  },
+  "Anser caerulescens": {
+    "common": "Snow Goose",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Snow_goose_in_Central_Park_%2833138%29.jpg/250px-Snow_goose_in_Central_Park_%2833138%29.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Snow_goose"
+  },
+  "Cygnus buccinator": {
+    "common": "Trumpeter Swan",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Trumpeter_swans_in_winter.jpg/250px-Trumpeter_swans_in_winter.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Trumpeter_swan"
+  },
+  "Cygnus columbianus": {
+    "common": "Tundra Swan",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Cygnus_bewickii_01.jpg/250px-Cygnus_bewickii_01.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Tundra_swan"
+  },
+  "Mergus merganser": {
+    "common": "Common Merganser",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Mergus_merganser_merganser_2078_%285561922560%29.jpg/250px-Mergus_merganser_merganser_2078_%285561922560%29.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Common_merganser"
+  },
+  "Mergus serrator": {
+    "common": "Red-breasted Merganser",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Red-breasted_Merganser_male_%28Mergus_serrator%29%2C_Barnegat_Inlet%2C_New_Jersey%2C_USA.jpg/250px-Red-breasted_Merganser_male_%28Mergus_serrator%29%2C_Barnegat_Inlet%2C_New_Jersey%2C_USA.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Red-breasted_merganser"
+  },
+  "Lophodytes cucullatus": {
+    "common": "Hooded Merganser",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Hooded_merganser_male_in_Central_Park_%2895790%29.jpg/250px-Hooded_merganser_male_in_Central_Park_%2895790%29.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Hooded_merganser"
+  },
+  "Podilymbus podiceps": {
+    "common": "Pied-billed Grebe",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Pied-billed_Grebe_0561.jpg/250px-Pied-billed_Grebe_0561.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Pied-billed_grebe"
+  },
+  "Podiceps auritus": {
+    "common": "Horned Grebe",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Podiceps_auritus_%2813909539717%29.jpg/250px-Podiceps_auritus_%2813909539717%29.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Horned_grebe"
+  },
+  "Podiceps nigricollis": {
+    "common": "Eared Grebe",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Black-necked_Grebe_Schwarzhalstaucher.jpg/250px-Black-necked_Grebe_Schwarzhalstaucher.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Eared_grebe"
+  },
+  "Podiceps grisegena": {
+    "common": "Red-necked Grebe",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Red-necked_grebe_%28Podiceps_grisegena_grisegena%29_breeding_adult_Gronjordssoen.jpg/250px-Red-necked_grebe_%28Podiceps_grisegena_grisegena%29_breeding_adult_Gronjordssoen.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Red-necked_grebe"
+  },
+  "Aechmophorus occidentalis": {
+    "common": "Western Grebe",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Western_Grebe_swimming.jpg/250px-Western_Grebe_swimming.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Western_grebe"
+  },
+  "Ardea herodias": {
+    "common": "Great Blue Heron",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/GreatBlueHeronInARiver.jpg/250px-GreatBlueHeronInARiver.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Great_blue_heron"
+  },
+  "Ardea alba": {
+    "common": "Great Egret",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Great_Egret_%28Ardea_alba%29_in_Breeding_Plumage%2C_Cape_May_County%2C_New_Jersey%2C_USA_%28cropped%29.png/250px-Great_Egret_%28Ardea_alba%29_in_Breeding_Plumage%2C_Cape_May_County%2C_New_Jersey%2C_USA_%28cropped%29.png",
+    "pageUrl": "https://en.wikipedia.org/wiki/Great_egret"
+  },
+  "Butorides virescens": {
+    "common": "Green Heron",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Green_heron_%28Butorides_virescens%29%2C_South_Padre_Island%2C_Texas%2C_USA_%28cropped%29.jpg/250px-Green_heron_%28Butorides_virescens%29%2C_South_Padre_Island%2C_Texas%2C_USA_%28cropped%29.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Green_heron"
+  },
+  "Nycticorax nycticorax": {
+    "common": "Black-crowned Night-Heron",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nycticorax_nycticorax_457953189.jpg/250px-Nycticorax_nycticorax_457953189.jpg?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail",
+    "pageUrl": "https://en.wikipedia.org/wiki/Black-crowned_night-heron"
+  },
+  "Nyctanassa violacea": {
+    "common": "Yellow-crowned Night-Heron",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Yellow-crowned_Night_Heron_%28Nyctanassa_violacea%29_perched_on_a_cedar_-_Cape_May_County%2C_New_Jersey%2C_USA.png/250px-Yellow-crowned_Night_Heron_%28Nyctanassa_violacea%29_perched_on_a_cedar_-_Cape_May_County%2C_New_Jersey%2C_USA.png",
+    "pageUrl": "https://en.wikipedia.org/wiki/Yellow-crowned_night-heron"
+  },
+  "Gavia immer": {
+    "common": "Common Loon",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gavia_immer_-Minocqua%2C_Wisconsin%2C_USA_-swimming-8.jpg/250px-Gavia_immer_-Minocqua%2C_Wisconsin%2C_USA_-swimming-8.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Common_loon"
+  },
+  "Nannopterum auritum": {
+    "common": "Double-crested Cormorant",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Phalacrocorax-auritus-007.jpg/250px-Phalacrocorax-auritus-007.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Double-crested_cormorant"
+  },
+  "Fulica americana": {
+    "common": "American Coot",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/American_coot_in_Prospect_Park_%2806152%29.jpg/250px-American_coot_in_Prospect_Park_%2806152%29.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/American_coot"
+  },
+  "Porzana carolina": {
+    "common": "Sora",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Sora_%28Porzana_carolina%29.jpg/250px-Sora_%28Porzana_carolina%29.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Porzana_carolina"
+  },
+  "Rallus limicola": {
+    "common": "Virginia Rail",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Virginia_rail_%2841109%29.jpg/250px-Virginia_rail_%2841109%29.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Virginia_rail"
+  },
+  "Gallinula galeata": {
+    "common": "Common Gallinule",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Common-gallinule-galapagos-casey-klebba.jpg/250px-Common-gallinule-galapagos-casey-klebba.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Common_gallinule"
+  },
+  "Charadrius vociferus": {
+    "common": "Killdeer",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Killdeer_Heislerville.png/250px-Killdeer_Heislerville.png?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail",
+    "pageUrl": "https://en.wikipedia.org/wiki/Killdeer"
+  },
+  "Actitis macularius": {
+    "common": "Spotted Sandpiper",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Actitis-macularia-005.jpg/250px-Actitis-macularia-005.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Spotted_sandpiper"
+  },
+  "Tringa flavipes": {
+    "common": "Lesser Yellowlegs",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Lesser_yellowlegs_%2832690%29.jpg/250px-Lesser_yellowlegs_%2832690%29.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Lesser_yellowlegs"
+  },
+  "Tringa melanoleuca": {
+    "common": "Greater Yellowlegs",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Greater_yellowlegs_%28Tringa_melanoleuca%29_foraging_at_Huntley_Meadows%2C_Alexandria%2C_Virginia%2C_USA.png/250px-Greater_yellowlegs_%28Tringa_melanoleuca%29_foraging_at_Huntley_Meadows%2C_Alexandria%2C_Virginia%2C_USA.png",
+    "pageUrl": "https://en.wikipedia.org/wiki/Greater_yellowlegs"
+  },
+  "Calidris minutilla": {
+    "common": "Least Sandpiper",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Least_Sandpiper_Foraging.png/250px-Least_Sandpiper_Foraging.png",
+    "pageUrl": "https://en.wikipedia.org/wiki/Least_sandpiper"
+  },
+  "Calidris melanotos": {
+    "common": "Pectoral Sandpiper",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pectoral_Sandpiper3.jpg/250px-Pectoral_Sandpiper3.jpg?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail",
+    "pageUrl": "https://en.wikipedia.org/wiki/Pectoral_sandpiper"
+  },
+  "Gallinago delicata": {
+    "common": "Wilson's Snipe",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Gallinago-delicata-002-cropped.jpg/250px-Gallinago-delicata-002-cropped.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Wilson's_snipe"
+  },
+  "Scolopax minor": {
+    "common": "American Woodcock",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/American_woodcock_%2895252%29.jpg/250px-American_woodcock_%2895252%29.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/American_woodcock"
+  },
+  "Megaceryle alcyon": {
+    "common": "Belted Kingfisher",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/BeltedKingfisherJG_Male.jpg/250px-BeltedKingfisherJG_Male.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Belted_kingfisher"
+  },
+  "Pandion haliaetus": {
+    "common": "Osprey",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Osprey_Perched_Snag_Heislerville.jpg/250px-Osprey_Perched_Snag_Heislerville.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Osprey"
+  }
+}
