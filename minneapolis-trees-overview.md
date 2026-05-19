@@ -292,6 +292,20 @@ All four have alternate, simple, oval-ish leaves with toothed edges. They're com
 
 ---
 
+### Aspens vs. Cottonwood
+
+All three are _Populus_ and share the same basic look: smooth pale bark on young trees, alternate leaves with flattened petioles, and cottony spring seeds. At a distance on young trees they can be nearly identical.
+
+**Leaf shape and size** is the primary separator:
+
+- **Quaking Aspen** — leaves are small (1–3"), nearly circular with a pointed tip, and very fine regular teeth. The flattened petiole is what makes them tremble constantly, even in almost no wind. Bark stays smooth and greenish-white even on moderately sized trees.
+- **Bigtooth Aspen** — same trembling habit and pale bark as quaking, but leaves are noticeably larger (2–4") and the teeth are coarser and irregular rather than fine and even. The two species often grow side by side, which compounds the confusion.
+- **Eastern Cottonwood** — leaves are clearly triangular (like a wide-based arrowhead) rather than rounded, and much larger (3–6"). Teeth are coarser. Cottonwood grows into a much larger tree than either aspen, and on mature trees the bark becomes deeply furrowed and dark gray — completely different from aspen's persistent smooth white bark. Along rivers and floodplains, the massive furrowed trunks are unmistakable.
+
+**The quick rule:** If the leaf is small and round-ish with fine teeth → quaking aspen. Same but with coarser, irregular teeth → bigtooth aspen. If the leaf is clearly triangular and large, or the tree is massive with furrowed bark → cottonwood.
+
+---
+
 ## Where to See Them
 
 | Location                                                      | What You'll Find                                                                      |
